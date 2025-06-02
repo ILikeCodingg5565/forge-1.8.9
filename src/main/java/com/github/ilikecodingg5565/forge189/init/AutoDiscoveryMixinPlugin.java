@@ -1,4 +1,4 @@
-package com.example.init;
+package com.github.ilikecodingg5565.forge189.init;
 
 import org.spongepowered.asm.lib.tree.ClassNode;
 import org.spongepowered.asm.mixin.extensibility.IMixinConfigPlugin;
